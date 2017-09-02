@@ -72,6 +72,14 @@ module.exports = {
         from: path.join(__dirname, './background/background.html'),
         to: './background.html'
       },
+      {
+        from: path.join(__dirname, './edge_components/backgroundScriptsAPIBridge.js'),
+        to: 'backgroundScriptsAPIBridge.js'
+      },
+      {
+        from: path.join(__dirname, './edge_components/contentScriptsAPIBridge.js'),
+        to: 'contentScriptsAPIBridge.js'
+      },
     ]),
   ].concat(isProduction ? [
     new webpack.optimize.UglifyJsPlugin({
