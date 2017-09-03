@@ -1,4 +1,4 @@
-# VOZLiving chrome-extension-react
+# VOZLiving edge-port(In development)
 ### Another VOZ extension using
 - webpack
 - react/redux
@@ -43,65 +43,4 @@ Notes: Feedback process 40/40
 ##
 Updates:
 
-3.0.1: Fix không nhận được quotes
-
-3.0.2: Thêm mở ra tab mới 
-
-3.0.3: Thêm quick add to ban list
-
-3.0.4: Fix mở ra tab mới
-
-3.0.5: Fix mở ra tab mới lần nữa (lol)
-
-3.0.6: Add tính năng gửi góp ý
-
-3.0.7: 
-
-- Hạn chế chiều cao khung bên cạnh
-- Tuỳ chọn chuyển sang tiếng việt
-
-3.0.8: Thêm form feedback khi xoá bỏ 
-
-3.0.9: 
-
-- Fix theo dõi thớt bị break ở 1 số trường hợp
-- Thêm chuyển page bằng phím ở danh sách thớt
-- Fix reload
-
-3.0.10: 
-
-- Mở ra tab khác nhưng vẫn giữ nguyên tab đang mở
-- Ctrl V nếu là hình thì upload và trả về url
-
-3.0.11:
-
-- Hoàn thiện paste hình vô khung soạn thảo
-
-3.0.12:
-
-- Cố gắng fix theo dõi thớt bị lỗi trên windows
-
-3.0.17:
-- Thêm tính năng lưu lại bài viết hay (giới hạn 200 bài)
-+ Lưu và sync
-- Thêm option tự động ẩn thanh công cụ
-- Thêm option peer chat (broken feature)
-
-3.0.19: 
-- Fix lỗi lặp hình
-- Fix khi click vào xoá bookmark thì nhảy lên trên
-
-3.0.20: 
-- Add custom userStyle support
-3.0.22: 
-- Thêm tính năng chụp bài viết và upload lấy link
-3.0.27
-- Chat Box (optional, off by default)
-3.0.28
-- Fix Chat Box UI
-3.0.29 
-- Improve background performance
-3.0.30
-- Fix PostTracker not working
-- Thêm option chỉnh thời gian quét thớt theo dõi
-- Cải thiện performance của việc quét thớt theo dõi
+3.0.0: Test

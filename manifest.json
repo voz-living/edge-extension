@@ -57,7 +57,7 @@
     "storage",
     "tabs"
   ],
-  "version": "3.0.70",
+  "version": "3.0.0",
   "web_accessible_resources": [
     "assert/*"
   ],
